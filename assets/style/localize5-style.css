@@ -1,0 +1,80 @@
+img
+{
+    background: url(sky.jpg);
+}
+h1
+{
+    position: absolute;
+    width: 754px;
+    height: 63px;
+    left: 145px;
+    top: 120px;
+    font-family: 'Neucha', cursive;;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 63px;
+    color: #003395;
+}
+h2
+{
+    position: absolute;
+    width: 899px;
+    height: 24px;
+    left: 148px;
+    top: 210px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 100%;
+    color: #000000;
+    }
+.flex-conteiner3
+{
+display: flex;
+background-color: #003395;
+flex-grow: 1;
+}
+li
+{
+display: inline;
+color: white;
+padding: 15px;
+}
+.flex-conteiner4
+{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+.flex-conteiner8
+{
+    display: flex;
+    background-color: #003395;
+    flex-grow: 1;
+    color: aliceblue;
+    flex-direction: row-reverse;
+    padding: 10px;
+}
+.name1
+{
+    background-color: rgb(27, 190, 240);
+    padding: 10px;
+    color: white;
+}
+.frame
+{
+    border: 2px solid rgb(51, 51, 154);
+    margin: 20px;
+    padding: 15px;
+}
+.name
+{
+    border-top: 2px solid rgb(51, 51, 154);
+    border-bottom: 2px solid rgb(51, 51, 154);
+}
+.text
+{
+    padding: 10px;
+}
