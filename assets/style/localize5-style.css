@@ -1,28 +1,21 @@
 .header {
-  display: inline-block;
+  background-image: url(204398-OZ3P4A-964.png");
+}
+img {
+  width: 1440px;
+  height: 372px;
+}
+.conteiner {
+  max-width: 1440px;
+  margin: 0 auto;
 }
 h1 {
-  width: 754px;
-  height: 63px;
-  left: 145px;
-  top: 120px;
   font-family: "Neucha", cursive;
   font-style: normal;
-  font-weight: 500;
-  font-size: 54px;
-  line-height: 63px;
   color: #003395;
 }
 h2 {
-  width: 899px;
-  height: 24px;
-  left: 148px;
-  top: 210px;
   font-family: "Roboto";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 100%;
   color: #000000;
 }
 .nav {
@@ -31,14 +24,14 @@ h2 {
 .nav-list {
   padding: 20px;
   align-items: center;
+  color: aqua;
 }
 .nav-item {
   display: inline;
   padding: 15px;
-  color: white;
 }
 a:hover {
-  color: azure;
+  color: red;
 }
 .main {
   display: flex;
